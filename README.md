@@ -34,3 +34,5 @@ The objective is to return the number of viewers for shows on ABC.
 Running join2_mapper.py and join2_reducer.py on the join2_gennum.txt and join2_genchan.txt files 
 Results in the total_viewer_counts_output.txt file.
 
+
+
